@@ -1,0 +1,42 @@
+timestamp,rating,review,ai_response,ai_summary,recommended_actions
+2025-12-06 22:59:19,4,The place was nice. The interior was fabulous and the food was great ,"Dear valued customer,
+
+We appreciate you taking the time to share your experience with us. We're thrilled to hear that you enjoyed our interior and found the food to be great. Thank you for your kind words and for choosing to dine with us - we're glad you had a wonderful time.
+
+Best regards, [Your AI Customer Service Name]","The customer was generally satisfied with their experience, praising the interior and food, but did not provide specific reasons for not giving a 5-star rating.","['Review the current interior design and decor to ensure it continues to meet customer expectations, and consider minor improvements to maintain a high standard.', 'Check the menu and ensure that the food quality is consistent and meets customer expectations, and consider gathering feedback to identify areas for improvement.', 'Consider asking customers for more detailed feedback to understand what is required for them to leave a 5-star review, and use this information to inform future improvements.']"
+2025-12-06 23:02:08,2,The food was average. The service was horrible and the hotel's parking was absent. I didnt also like waiter's caste,"Dear valued guest, 
+
+Thank you for taking the time to share your feedback with us. We apologize for the disappointing experience you had with our service and the lack of parking facilities. We also regret that you felt uncomfortable with the waiter's attire, and we will discuss this with our team to ensure that our staff are dressed professionally. We value your feedback and would like to make it right.
+
+Best regards, 
+[Your Hotel Name] Customer Service Team","The customer had a subpar experience with the hotel's food, service, parking, and had an issue with the waiter's attitude, leading to a 2-star rating.","['Improve food quality and variety to meet customer expectations, focusing on offering a unique experience.', 'Provide additional training for staff on customer service etiquette and conflict resolution to address service-related issues.', 'Assess and improve parking options, including alternative solutions for guests who may not be able to find parking nearby.', ""Develop a clear policy and procedure for addressing customer complaints regarding staff behavior, such as the waiter's caste issue, and provide ongoing training to staff on cultural sensitivity and inclusivity.""]"
+2025-12-06 23:04:37,2,"The food was bland and stale. The service was okayish and i there was no lady staff
+","Dear valued customer,
+
+Thank you for taking the time to share your feedback with us. We apologize that our food did not meet your expectations and was described as bland and stale. We also apologize for not having a female staff member available during your visit and acknowledge that our service was not up to par. We're truly sorry for any disappointment this caused and would love the opportunity to make things right. 
+
+Best regards,
+[Your Customer Service AI Name]","Customer experienced subpar food and service, with a specific mention of lack of female staff, indicating potential issues with staff rostering and food quality control.","Review and investigate the customer's claims of stale and bland food to identify any issues with food storage, preparation, or quality control. Additionally, take steps to improve staff rostering to ensure a more diverse and representative team, including female staff, to enhance customer experience and satisfaction."
+2025-12-06 23:08:08,1,Pathetic hotel I didn't like the service. I need coupons as condolences,"Dear valued guest, 
+
+We're sorry to hear that your recent stay at our hotel didn't meet your expectations, particularly with regards to the service. We'd like to extend our apologies and show our appreciation for your feedback. As a gesture of goodwill, we'd be happy to provide you with some coupons for a future stay. If you'd like, please reach out to us directly so we can discuss further and make things right.
+
+Best regards, [Customer Service Team]",1-star review requiring attention,Review manually and respond appropriately
+2025-12-06 23:08:41,3,jchiuwhoclewoicbkcmwkneo,"I'd be happy to help with a response. However, I need to clarify that the review provided doesn't seem to be a coherent text. It appears to be a random combination of letters. 
+
+If you can provide the actual text of the review, I'll be happy to assist you in crafting a warm and professional response.","The customer provided a 3-star review with a nonsensical string of characters, suggesting a potential technical issue or frustration with the platform.","[""Check if the customer's account is experiencing any technical difficulties, and ensure they have a functional way to submit feedback."", ""Verify if the customer's review is being flagged as spam or malicious, and take necessary steps to prevent similar issues in the future."", ""Reach out to the customer via the platform's support channels to gather more information about their experience and resolve any issues they may be facing.""]"
+2025-12-07 00:08:40,5,"What a hotel. Very nice interior and service and amazing hosptiality. Just need decoration improvements
+","Dear valued guest,
+
+We'd like to extend our heartfelt gratitude for taking the time to share your exceptional experience at our hotel. We're thrilled to hear that you enjoyed our interior, service, and hospitality, and we appreciate your honest suggestion regarding decoration improvements - we'll definitely take this into consideration to enhance your stay with us in the future. Thank you again for your wonderful review!
+
+Best regards, [Your Hotel's Customer Service Team]","The customer was extremely satisfied with their stay, praising the interior, service, and hospitality, but suggested minor improvements in decorations.","[""Inspect the interior of the hotel to ensure it meets the customer's expectations"", 'Review the current decorations and identify areas for improvement', 'Consider gathering customer feedback on specific decoration ideas', 'Investigate potential budget allocations for decoration upgrades', 'Emphasize the excellent service and hospitality to customers, highlighting these strengths in marketing efforts']"
+2025-12-07 00:09:31,4,nice experience,"Dear valued customer, 
+
+We appreciate you taking the time to share your experience with us. You mentioned it was a ""nice experience,"" and we're glad to hear that we were able to meet your expectations in some way.","The customer had a generally positive, but somewhat neutral experience with the product/service.",Request more specific feedback from the customer to understand what made their experience 'nice' and what could be improved. Consider sending a follow-up survey or email to gather more detailed insights and opportunities for growth.
+2025-12-07 18:20:24,4,"didnt like rithesh(waiter ) behaviour,idli served was cold
+","Dear valued customer, 
+
+We appreciate you taking the time to share your feedback with us. We apologize for the disappointing experience you had with our waiter, Rithesh, and the cold idli served to you. We will use this as an opportunity to review our service standards and ensure our customers receive the highest level of hospitality.
+
+Best regards, [Customer Service AI]","Customer had a mixed experience, citing poor waiter behavior and cold idli, but still gave a 4-star rating, indicating some positive aspects of their visit.","['Review staff training on customer service and behavior to ensure waiters are providing excellent service and addressing customer concerns professionally.', 'Investigate and address the issue of cold idli being served, possibly by revisiting their food preparation and serving procedures.', 'Check if there are any specific waiters, like Rithesh, who are not meeting expectations and provide additional training or support as needed.', 'Monitor customer feedback to identify patterns and trends, and make adjustments to maintain high standards of service and food quality.']"
