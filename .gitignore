@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# Environment variables
+.env
+
+# Data (Optional: keep if you want to ship default data, ignore if it's purely local)
+# data/
+
+# OS
+.DS_Store
